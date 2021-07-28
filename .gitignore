@@ -1,2 +1,6 @@
+**/node_modules/
+yarn-error.log
+/dist/
+/lib/
+.DS_Store
 node_modules
-prototype/dist
